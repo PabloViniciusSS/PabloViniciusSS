@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Vinícius Sousa Silva</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pabloviniciusss&label=Profile%20views&color=0e75b6&style=flat" alt="pabloviniciusss" /> </p>
-
-
 - 🔭 I’m currently working on [Portfolio](https://pablo-vinicius-portfolio.vercel.app/)
 
 - 🌱 I’m currently learning **React Native, mobile**
