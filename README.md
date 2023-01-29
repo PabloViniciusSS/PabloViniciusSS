@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabloviniciusss&label=Profile%20views&color=0e75b6&style=flat" alt="pabloviniciusss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabloviniciusss" alt="pabloviniciusss" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio](https://pablo-vinicius-portfolio.vercel.app/)
 
