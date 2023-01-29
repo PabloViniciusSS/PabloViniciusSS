@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pablo Vinícius Sousa Silva</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://pablo-vinicius-portfolio.vercel.app/)
-
 - 🌱 I’m currently learning **React Native, mobile**
 
 - 👨‍💻 All of my projects are available at [https://pablo-vinicius-portfolio.vercel.app/](https://pablo-vinicius-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, React Native, JavaScript, Python, PHP, Yii2**
+- 💬 Ask me about **React, React Native, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
