@@ -13,5 +13,5 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloViniciusSS&langs_count=8)](https://github.com/PabloViniciusSS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloViniciusSS&compact)](https://github.com/PabloViniciusSS/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloViniciusSS&theme=great-gatsby&show_icons=true)
