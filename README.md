@@ -20,4 +20,3 @@ I currently work in customer support, I have worked as a Web Developer in an int
 <a href="https://www.instagram.com/albino_marques01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<center><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/></center>
