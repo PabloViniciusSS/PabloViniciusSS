@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Vinícius Sousa Silva</h1>
-<h3 align="center">Data Sciencs | Back-End<h3>
+<h3 align="center">Data Science | Machine Learning | Deep Learning & Desenvolvedor BackEnd Jr | Python | Java <h3>
 
-- 🌱 I’m currently learning **Python, Deep Learning, machine learning**
+- 🌱 I’m currently learning **Python, Deep Learning, machine learning, Java**
 
 - 👨‍💻 All of my projects are available at [https://pablo-vinicius-portfolio.vercel.app/](https://pablo-vinicius-portfolio.vercel.app/)
 
