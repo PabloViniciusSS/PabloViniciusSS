@@ -35,7 +35,7 @@ I've been studying programming for more than 3 years, with several languages, bu
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 
-### database
+### Database
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
@@ -44,8 +44,7 @@ I've been studying programming for more than 3 years, with several languages, bu
 
 
 
- ### Studying in this moment
-	
+ ### Studying in this moment	
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?logo=fortran&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
