@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Data Science | Machine Learning | Deep Learning & Desenvolvedor BackEnd Jr | Python | Java</h4>
+<h4 align="center">Data Science | Machine Learning | Deep Learning </h4>
 
 ###
 
