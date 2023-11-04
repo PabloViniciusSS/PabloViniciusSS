@@ -27,7 +27,7 @@ I've been studying programming for more than 3 years, with several languages, bu
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 
-#### Tools
+### Tools
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
@@ -44,7 +44,7 @@ I've been studying programming for more than 3 years, with several languages, bu
 
 
 
- #### Studying in this moment
+ ### Studying in this moment
 	
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?logo=fortran&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
