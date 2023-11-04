@@ -15,8 +15,8 @@ I've been studying programming for more than 3 years, with several languages, bu
 ###
 
 
+
 ### Main Skills
-#### Main Skills
 <div align="left">
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
