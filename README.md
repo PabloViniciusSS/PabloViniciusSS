@@ -48,7 +48,7 @@ I've been studying programming for more than 3 years, with several languages, bu
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?logo=fortran&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)
+
  
 
 
