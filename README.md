@@ -12,7 +12,7 @@ Já faz mais de 3 anos que venho estudando programação, com diversas linguagen
 Os meus outros perfis são:
 
 
- <br>- Mobile & Back-End: https://github.com/pabloviniciusSousa
+- Mobile & Back-End: https://github.com/pabloviniciusSousa
 - Front-End: https://github.com/PabloVSS <br>
 
 
@@ -21,7 +21,7 @@ I've been studying programming for more than 3 years, with several languages, bu
 
 My other profiles are:
 
- <br>- Mobile & Back-End: https://github.com/pabloviniciusSousa
+- Mobile & Back-End: https://github.com/pabloviniciusSousa
 - Front-End: https://github.com/PabloVSS <br>
 
 ###
