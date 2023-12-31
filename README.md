@@ -58,7 +58,7 @@ My other profiles are:
 
  ### Studying in this moment	
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/logo-android-green?logo=android)
+![Android](https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android)
  
 
  ### Other Knowledge
